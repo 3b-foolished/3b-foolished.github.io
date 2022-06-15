@@ -5,7 +5,7 @@
 layout: home
 mermaid: true
 ---
-<div class="home"><script src="https://unpkg.com/mermaid@9.1.2/dist/mermaid.min.js"></script>
+<script src="https://unpkg.com/mermaid@9.1.2/dist/mermaid.min.js"></script>
 <div class="mermaid">
   graph TD;
       A-->B;
