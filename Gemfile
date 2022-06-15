@@ -14,7 +14,7 @@ gem "jekyll", "~> 3.9.2"
 gem "github-pages", "~> 226", group: :jekyll_plugins
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "jekyll-mermaid"
+  # gem "jekyll-mermaid"
   gem "jekyll-feed", "~> 0.12"
 end
 gem "minima"
